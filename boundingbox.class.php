@@ -90,6 +90,7 @@ class BoundingBox
 			$hashes[] = $hash."f";
 			$hashes[] = $hash."g";
 			$hashes[] = $hash."h";
+			$hashes[] = $hash."i";
 			$hashes[] = $hash."j";
 			$hashes[] = $hash."k";
 			$hashes[] = $hash."m";
